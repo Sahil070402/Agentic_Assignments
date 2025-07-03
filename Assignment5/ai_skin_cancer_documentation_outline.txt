@@ -1,0 +1,32 @@
+Documentation Outline - Current Progress of AI in Skin Cancer Field
+
+1. Introduction
+  1.1 Background on Skin Cancer
+  1.2 Importance of Early Detection
+  1.3 Role of AI in Dermatology
+
+2. AI Technologies in Skin Cancer Diagnosis
+  2.1 Machine Learning and Deep Learning Overview
+  2.2 Dermoscopic Image Analysis
+  2.3 Mobile Applications and Teledermatology
+
+3. Clinical Applications
+  3.1 Diagnostic Accuracy and Validation Studies
+  3.2 Integration into Clinical Workflow
+  3.3 Impact on Biopsy Rates and Patient Outcomes
+
+4. Challenges and Limitations
+  4.1 Regulatory and Ethical Considerations
+  4.2 Data Privacy and Security
+  4.3 Model Generalizability and Bias
+
+5. Future Directions
+  5.1 Multimodal AI Systems
+  5.2 Personalized Medicine and Prognostic Tools
+  5.3 Research Trends and Emerging Technologies
+
+6. Conclusion
+
+7. References
+
+This outline serves as a foundational framework for drafting a comprehensive report or documentation on the current advances of AI in the skin cancer domain, covering technological, clinical, and ethical aspects.

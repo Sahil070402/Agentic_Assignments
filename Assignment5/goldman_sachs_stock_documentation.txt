@@ -1,0 +1,22 @@
+Documentation for Goldman Sachs Stock Summary:
+
+1. Data Sources:
+   - CNBC: https://www.cnbc.com/quotes/GS
+   - Yahoo Finance: https://finance.yahoo.com/quote/GS/
+   - MarketWatch: https://www.marketwatch.com/investing/stock/gs
+   - Nasdaq: https://www.nasdaq.com/market-activity/stocks/gs
+   - Google Finance: https://www.google.com/finance/quote/GS:NYSE?hl=en
+   - CNN Markets: https://www.cnn.com/markets/stocks/GS
+   - Seeking Alpha: https://seekingalpha.com/symbol/GS
+   - eToro: https://www.etoro.com/markets/gs
+
+2. Key Financial Metrics:
+   - Current trading price: $715.89 to $716.16
+   - 52-week high/low: $718.73 / $437.37
+   - Market cap: $216.77B
+   - Volume: ~2.85M shares
+   - Analyst price targets: Range $500 - $720, average $593.37
+
+3. Analyst Ratings & Market Sentiment: Mostly positive with several strong buy and buy ratings.
+
+For more detailed financial performance, historical data charts, and news updates, please refer to the linked financial platforms above.
