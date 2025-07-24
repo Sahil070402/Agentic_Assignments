@@ -1,0 +1,10 @@
+streamlit
+requests
+langchain-openai
+langchain
+langchain-community
+langchain-google-community
+duckduckgo-search
+google-api-python-client
+google-search-results
+python-dotenv
